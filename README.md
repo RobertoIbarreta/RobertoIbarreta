@@ -6,8 +6,7 @@
 - 💬 Ask Me About: **AWS**, **GCP**, **Azure**, **Terraform (IaC)**, **Docker**, **Kubernetes**, **Jenkins**, **Linux**, **CI/CD**, **DevOps**, **GitOps** 
 
 - 📫 Reach me at **ibarretaroberto7@gmail.com**
-- ![](https://komarev.com/ghpvc/?username=onkar717&color=green&style=for-the-badge)
-
+  
 - 🛠️ Future Goals: Dive deeper into **Genravtive-AI in Cloud**
 
 
